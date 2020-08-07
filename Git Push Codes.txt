@@ -9,3 +9,21 @@
 5. git remote add origin git@github.com:itrabbi24/simple-crud-laravel.git
 
 6. git push -u origin master
+
+
+
+
+
+
+
+Exting Reprotory Work---------------
+
+1. git status
+
+2. git add .
+
+3. git status
+
+4. git commit -m "itrabbi24-RotexIT.Com"
+
+5. git push -u origin master
